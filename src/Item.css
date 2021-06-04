@@ -1,0 +1,43 @@
+.item{
+
+    display: inline-block;
+    padding: 10px;
+    margin: 15px;
+    width: 200px;
+    vertical-align: top;
+}
+.item .image img{
+    height: 250px;
+}
+
+.item .title{
+    font-weight: bold;
+    font-size: 18px;
+    height: 60px;
+}
+.item .artist{
+    font-size: 15px;
+    height: 30px;
+}
+a{
+    text-decoration:none;
+    color: #038b8b;
+}
+
+
+.item .actions{
+    width: 100%;
+    border-top: solid 1px #bbb;
+    padding: 5px 0;
+    margin-top: 10px;
+}
+
+.item .actions button{
+    border: 0;
+    border-radius: 3px;
+    background-color: rgb(167, 139, 3);
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+    width: 100%;
+}

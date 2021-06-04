@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5cf976c-866a-4fc6-ad3b-b48d8588c45a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/img/cancion01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/cancion02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/cancion03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/cancion04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/cancion05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Item.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/List.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/List.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PanelAdd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lejenKJj7iOYH5xnMqKHxQaeWo" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/svelte_projects/myproject" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/img" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5cf976c-866a-4fc6-ad3b-b48d8588c45a" name="Default Changelist" comment="" />
+      <created>1607964561434</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607964561434</updated>
+      <workItem from="1607964571887" duration="5132000" />
+      <workItem from="1608079185420" duration="3250000" />
+      <workItem from="1608183294268" duration="53000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
